@@ -5,7 +5,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-const axios = require('axios')
+
 (function() {
   "use strict";
 
